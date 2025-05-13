@@ -1,0 +1,16 @@
+id,nombre,categoria,precio,stock,disponible
+1001,Monitor LED 24",Informática,159.99,15,true
+1002,Teclado mecánico RGB,Periféricos,89.50,23,true
+1003,Ratón inalámbrico,Periféricos,24.95,42,true
+1004,Disco SSD 500GB,Almacenamiento,79.99,8,true
+1005,Memoria RAM 16GB,Componentes,75.50,0,false
+1006,Cable HDMI 2m,Accesorios,12.75,56,true
+1007,Tarjeta gráfica GTX 1650,Componentes,299.99,3,true
+1008,Auriculares gaming,Audio,59.90,18,true
+1009,Webcam HD,Periféricos,45.25,0,false
+1010,Altavoces 2.1,Audio,68.50,12,true
+1011,Impresora láser,Impresión,199.95,5,true
+1012,Tablet 10",Dispositivos,189.00,7,true
+1013,Router WiFi,Redes,79.99,14,true
+1014,Módem 4G,Redes,59.50,0,false
+1015,Adaptador USB-C,Accesorios,15.75,31,true
