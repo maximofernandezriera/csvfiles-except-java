@@ -21,3 +21,12 @@ Este ejemplo muestra cómo leer un archivo CSV que contiene información de estu
 * [resultados.csv](resultados.csv)
 
 En este ejemplo se implementa la escritura de datos en un archivo CSV utilizando FileWriter y BufferedWriter, con un manejo detallado de excepciones, incluyendo el uso de try-with-resources.
+
+## Ejemplo 3: Operaciones mixtas de lectura/escritura con validación
+
+### Ficheros:
+
+* [EjemploMixto.java](EjemploMixto.java)
+* [inventario.csv](inventario.csv)
+
+Este ejemplo más avanzado combina lectura y escritura de archivos CSV, implementando validación de datos y manejo personalizado de excepciones para situaciones específicas.
